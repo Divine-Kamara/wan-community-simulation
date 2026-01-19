@@ -1,5 +1,7 @@
 **Author : [KAMARA DIVINE KAMARA(JNR) - ICTU20234046 ]**
 
+**WAN-ASSIGNMENT 1 ANSWER LINK; https://docs.google.com/document/d/1A0uCqrdcJkdXcAD66HOtXz9yQPQJ07Wm/edit?usp=sharing&ouid=115333150829910464814&rtpof=true&sd=true**
+
 # WAN-Based Community Network Simulation using NS-3 (WAN ASSIGNMENT 2)
 
 ## Project Description
@@ -23,6 +25,3 @@ The execution of the simulation and the network visualization can be viewed in t
 ## How to Run the Simulation
 ```bash
 ./ns3 run scratch/wan-simulation.cc
-
-
-WAN-ASSIGNMENT 1 ANSWER LINK; https://docs.google.com/document/d/1A0uCqrdcJkdXcAD66HOtXz9yQPQJ07Wm/edit?usp=sharing&ouid=115333150829910464814&rtpof=true&sd=true
